@@ -1,0 +1,30 @@
+ul {
+    list-style-type: none;
+    float: right;
+    background-color: #b09e99; 
+   
+}
+
+li  {
+    display: inline;
+    padding-right: 3rem;
+    font-size: 25px; 
+    background-color: #b09e99;
+    
+   
+}
+
+div.navbar{
+    background-color: #b09e99;
+    padding: 1rem 2rem 3rem 2rem;
+
+}
+
+a{
+    text-decoration: none;
+    background-color: #b09e99;
+    color: black;
+}
+
+
+
