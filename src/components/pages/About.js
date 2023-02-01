@@ -5,7 +5,7 @@ import ('../../styles/About.css');
 export default function About() {
   return (
     <div>
-      <h1>About me</h1>
+      <h1 id="about">About me</h1>
       <img src= {Profilepic} alt="A photograph of me"/>
       <p id="aboutInfo">
         I graduated in 2020 from the University of Texas at Austin with a BS in Radio, Television, and Film and a BFA in Studio Art.

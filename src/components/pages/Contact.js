@@ -5,7 +5,14 @@ export default function Contact() {
     <div>
       <h1>Contact Page</h1>
       <p>
-        Contact me
+        Email: Alexandria.l.guerrero@gmail.com
+      </p>
+      <p>
+        Phone # (832) 693-1575
+      </p>
+      <br></br>
+      <p>
+        Please leave your name and email down in the field below:
       </p>
     </div>
   );

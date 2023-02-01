@@ -3,5 +3,16 @@
     margin: 0 ;
     padding: 0 ;
     box-sizing: border-box;
+    
 }
 
+h1 {
+    text-align: center;
+    padding: 2rem;
+    font-size: 45px;
+}
+
+p {
+    text-align: center;
+    font-size:30px;
+}
