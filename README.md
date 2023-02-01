@@ -18,6 +18,11 @@ Clone the repository, in the command-line type npm i, and to start the react app
 ## Usage
 This application is my portfolio page to showcase the projects that I've done and my information to contact me.
 
+## Future Development
+* To have a text block on Contact page to enable the user to fill out the required fields to send me a message/email
+* To have each project block link to the Github repo or to the deployed url
+* Add resume to resume page
+
 ## Credits
 - [ALEXANDRIA GUERRERO](https://github.com/Ag6793)
 
