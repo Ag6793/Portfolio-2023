@@ -4,15 +4,32 @@
     padding: 0 ;
     box-sizing: border-box;
     
+    
 }
 
 h1 {
     text-align: center;
-    padding: 2rem;
+    padding: 2rem 2rem 0 2rem;
     font-size: 45px;
+    font-family: 'Kalam', cursive;
+    color: #635856;
 }
 
 p {
     text-align: center;
     font-size:30px;
+    color: #635856;
 }
+
+@media only screen and (max-width: 600px) {
+    /* Media query Test */
+    h1 {
+        font-size: 30px;
+        padding-bottom:0;
+    }
+    
+    p{
+        font-size: 15px;
+    }
+
+  }

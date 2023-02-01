@@ -10,19 +10,49 @@
  .nav-item {
     display: inline;
     font-size: 25px;
+    font-family: 'Kalam', cursive;
+    font-weight: bold;
+    background-color: #b09e99; 
+    
     
  }
 
  li a {
-    padding-right: 3rem;
-    
+    margin-right: 3rem;
     text-decoration: none;
     color: black;
     width: 100%;
-    background-color: #b09e99; 
+    padding: .8rem 2rem;
+    color: #fee9e1;
+    background-color: #64b6ac;
+    border-radius: 2rem;
 
  }
 
+ #resumeTab {
+   padding-right: 2rem;
+   background-color: #b09e99; 
+ }
+
+ li a:hover{
+   color: #c0fdfb;
+ }
+
+ li a:active{
+   color: #64b6ac;
+   background-color: #c0fdfb; 
+ }
+
+ @media only screen and (max-width: 600px) {
+   /* Media query Test */
+  li a {
+   font-size: 15px;
+   margin: 5px;
+   padding: .8rem;
+   border-radius: 1.5rem;
+   width: 100%;
+  }
+ }
 
 
 

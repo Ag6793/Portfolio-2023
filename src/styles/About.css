@@ -2,8 +2,9 @@ img {
     justify-content: center;
     margin: 2rem auto 3rem auto;
     display: flex;
-    width: 300px;
-    height: 400px;
+    width: 320px;
+    height: 420px;
+    
 
 }
 
@@ -17,3 +18,25 @@ img {
 #about {
     text-align: center;
 }
+
+#profilepic{
+    border: 20px solid #64b6ac;
+}
+
+@media only screen and (max-width: 600px) {
+    /* Media query Test */
+  img{
+    width: 220px;
+    height: 300px;
+  }
+
+  #aboutInfo {
+    font-size: 15px;
+    width: 80%;
+    margin-bottom: 3rem;
+  }
+
+  #profilepic{
+    border: 10px solid #64b6ac;
+}
+  }
