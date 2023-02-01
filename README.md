@@ -5,6 +5,8 @@
 ## Description
 This is my portfolio webpage.
 
+![Screenshot of Portfolio](./src/images/PortfolioWeb.jpg)
+
 ## Technologies
 * React
 * Css
