@@ -1,5 +1,38 @@
 img.projectImg {
-    width: 300px;
+    width: 350px;
     height: 300px;
     object-fit: cover;
+    border: 15px solid #64b6ac;
+    border-radius: 15%;
+    margin: 1rem;
+}
+
+#imageContainer {
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    margin: 2rem 20rem;
+}
+
+img.projectImg:hover {
+    opacity: 75%;
+    border-color: #c0fdfb;
+}
+
+img.projectImg:active {
+    border-color: #b09e99;
+}
+
+@media only screen and (max-width: 600px) {
+    #imageContainer {
+        margin: 1rem;
+    }
+
+    img.projectImg {
+        width: 250px;
+        height: 200px;
+        margin: 1rem;
+    }
 }
