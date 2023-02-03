@@ -34,10 +34,11 @@ export default function ContactForm() {
     }
 
     return (
-        <div className="form-container">
-            <form onSubmit={handleSubmit}>
+        <div className="form-container" id="form-block">
+            <form onSubmit={handleSubmit} className="form-container">
                 {submitted && valid ? <div>Sucess! You sent a message!</div> : null}
                 <input
+                    className='text-block'
                     disabled={submitted}
                     value={values.name}
                     onChange={handleNameInputChange}
@@ -47,6 +48,7 @@ export default function ContactForm() {
 
                 {submitted && !values.name ? <span>Please enter a name</span> : null}
                 <input
+                    className='text-block'
                     disabled={submitted}
                     value={values.email}
                     onChange={handleEmailInputChange}
@@ -56,6 +58,8 @@ export default function ContactForm() {
 
                 {submitted && !values.email ? <span>Please enter an email address</span> : null}
                 <input
+                    id="message-block"
+                    className='text-block'
                     disabled={submitted}
                     value={values.message}
                     onChange={handleMessageInputChange}
@@ -64,7 +68,7 @@ export default function ContactForm() {
                     name="message" />
 
                 {submitted && !values.message ? <span>Please enter a message</span> : null}
-                <button type="submit">Submit</button>
+                <button type="submit" id="submit">Submit</button>
             </form>
         </div>
 

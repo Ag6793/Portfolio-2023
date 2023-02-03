@@ -1,0 +1,50 @@
+.form-container{
+    background-color: lightblue;
+    width: 50%;
+    margin: 2rem auto;
+    display: inline-grid;
+    /* align-items: center;
+    justify-content: center;
+    display: flex; */
+}
+
+#form-block{
+    display: flex;
+    margin: 3rem auto;
+    /* border-radius: 3px; */
+    
+}
+
+.textblock{
+    /* margin: 10px; */
+    border-radius: 8%;
+}
+
+button{
+    background-color: lightcoral;
+    border: none;
+    font-size: 25px;
+    margin: 1rem auto;
+    padding: 1rem;
+    width: 10rem;
+    border-radius: 3px;
+}
+
+#submit:hover {
+    color: white;
+    cursor: pointer;
+}
+
+input.text-block {
+    font-size: 25px;
+    margin-bottom: 15px;
+    border: none;
+    padding: 15px 20px;
+    /* border-radius: 8%;
+} */
+}
+
+#message-block {
+    padding-bottom: 15rem;
+}
+
