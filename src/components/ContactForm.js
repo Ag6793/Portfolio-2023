@@ -55,6 +55,7 @@ export default function ContactForm() {
                     type="text"
                     placeholder="Email"
                     name="email" />
+                    {/* Need to add email validation */}
 
                 {submitted && !values.email ? <span>Please enter an email address</span> : null}
                 <input
@@ -69,6 +70,7 @@ export default function ContactForm() {
 
                 {submitted && !values.message ? <span>Please enter a message</span> : null}
                 <button type="submit" id="submit">Submit</button>
+                {/* when user submits message, the message will be sent via email with the user's name attached */}
             </form>
         </div>
 
