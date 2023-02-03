@@ -1,4 +1,5 @@
 import React from 'react';
+import ContactForm from '../ContactForm';
 
 export default function Contact() {
   return (
@@ -7,6 +8,7 @@ export default function Contact() {
       <p>
         Please leave your name and email down in the field below:
       </p>
+      < ContactForm />
     </div>
   );
 }
