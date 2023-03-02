@@ -1,0 +1,19 @@
+#resumeBtn{
+    font-family: 'Kalam', cursive;
+    font-size: 25px;
+    font-weight: bold;
+    color: #fee9e1;
+    background-color: #64b6ac;
+    padding: 1.5rem;
+    border-radius: 2rem;
+    border: none;
+    margin: 1rem;
+}
+
+#resumeBtn:hover{
+    color: #c0fdfb;
+}
+
+#resumeBtn:active{
+    background-color: #b09e99;
+}
