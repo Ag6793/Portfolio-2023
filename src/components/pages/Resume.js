@@ -5,7 +5,7 @@ export default function Resume() {
     <div>
       <h1>Resume</h1>
       <p>
-        This is my resume
+      Click <a href='resume' download>here</a> to download my resume.
       </p>
     </div>
   );
