@@ -20,6 +20,7 @@ export default function Resume() {
   return (
     <div>
       <h1>Resume</h1>
+      <br></br>
       <p>
       Click the button below to download my resume<br></br>
      
