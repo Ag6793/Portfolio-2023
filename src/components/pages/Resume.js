@@ -1,5 +1,5 @@
 import React from 'react';
-import PDF from '../../files/AlexandriaGuerrero_resume.pdf';
+import PDF from '../../pdf/AlexandriaGuerrero_resume.pdf';
 import ('../../styles/Resume.css');
 
 export default function Resume() {
