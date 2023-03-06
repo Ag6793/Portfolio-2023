@@ -42,6 +42,11 @@
    color: #64b6ac;
    background-color: #c0fdfb; 
  }
+
+ li a.active{
+  color: #64b6ac;
+  background-color: #c0fdfb; 
+}
  
  @media only screen and (max-width: 780px){
   #resumeTab {
