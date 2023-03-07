@@ -19,7 +19,7 @@ img {
 }
 
 #profilepic{
-    border: 20px solid #64b6ac;
+    border: 10px solid #64b6ac;
     border-radius: 15%;
 }
 @media only screen and (max-width: 780px){
