@@ -18,7 +18,7 @@ export default function Resume() {
   }
 
   return (
-    <div>
+    <div id="resumebody">
       <h1>Resume</h1>
       <br></br>
       <p>

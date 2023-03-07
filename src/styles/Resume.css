@@ -19,6 +19,10 @@
     background-color: #b09e99;
 }
 
+#resumebody{
+    height: 27rem;
+}
+
 @media only screen and (max-width: 650px) {
     /* Media query Test */
     #resumeBtn{
