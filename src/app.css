@@ -1,6 +1,5 @@
 * {
-    /* background-color: #fee9e1;
-    background-image: url("../src/images/background.jpg") ; */
+    font-family: 'Poppins', sans-serif;
     margin: 0 ;
     padding: 0 ;
     box-sizing: border-box; 
@@ -19,7 +18,7 @@ h1 {
     text-align: center;
     padding: 2rem 2rem 0 2rem;
     font-size: 45px;
-    font-family: 'Kalam', cursive;
+    font-family: 'Poppins', sans-serif;
     color: #635856;
     background: none;
 }

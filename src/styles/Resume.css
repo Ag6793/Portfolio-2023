@@ -1,5 +1,5 @@
 #resumeBtn{
-    font-family: 'Kalam', cursive;
+    font-family: 'Poppins', sans-serif;
     font-size: 25px;
     font-weight: bold;
     color: #fee9e1;
@@ -8,7 +8,6 @@
     border-radius: 2rem;
     border: none;
     margin: 1rem;
-    letter-spacing: 1.5px;
 }
 
 #resumeBtn:hover{
