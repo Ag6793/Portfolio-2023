@@ -1,2 +1,0 @@
-img{display:flex;height:420px;justify-content:center;margin:2rem auto 3rem;width:320px}#aboutInfo{background:none;font-size:25px;margin:auto;width:50%}#about,#aboutInfo{text-align:center}#profilepic{border:10px solid #64b6ac;border-radius:15%}@media only screen and (max-width:780px){#aboutInfo{width:78%}}@media only screen and (max-width:600px){img{height:300px;width:220px}#aboutInfo{font-size:15px;margin-bottom:3rem;width:80%}#profilepic{border:10px solid #64b6ac}}
-/*# sourceMappingURL=9.78393064.chunk.css.map*/
