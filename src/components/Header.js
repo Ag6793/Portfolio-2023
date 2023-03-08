@@ -1,12 +1,13 @@
 import React from 'react';
 //The styling for the Navbar
 import '../styles/Header.css';
+import signatureimg from '../images/signature2.png';
 
 function Header() {
 
     return (
-        <div>
-            <h2>Alexandria L Guerrero</h2>
+        <div id="headerbar">
+            <img src={signatureimg} alt = "signature of name" id="signature"/>
         </div>
     );
 }

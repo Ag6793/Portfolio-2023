@@ -1,17 +1,42 @@
 h2{
     background-color: #b09e99;
-    padding: 3rem 2rem .5rem 5rem;
-    font-size: 75px;
+    padding: 0rem 2rem .5rem 5rem;
+    font-size: 35px;
+    letter-spacing: 6px;
     width: 100%;
-    font-family: 'Kalam', cursive;
-    color: #c0fdfb;
+    font-family: 'Poppins', sans-serif;
+    color: #635856;
 }
 
+#headerbar{
+    background-color: #b09e99;
+    width: 100%;
+    
+}
+
+#signature{
+    height: 10rem;
+    width:fit-content;
+    margin: 0;
+    padding-right: 63%;
+    padding-left: 5rem;
+   padding-top: 2rem;
+    background-color: #b09e99;
+
+}
 
 @media only screen and (max-width: 780px){
     h2{
         font-size: 65px;
         padding-bottom: 2rem;
+    }
+    #signature{
+        margin:auto;
+        background-color: #b09e99;
+       
+        padding: 35px;
+      
+        
     }
    }
    
