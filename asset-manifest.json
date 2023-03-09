@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/Portfolio-with-React/static/css/main.6921a8f2.css",
-    "main.js": "/Portfolio-with-React/static/js/main.f7366ee6.js",
-    "static/css/743.80f1edce.chunk.css": "/Portfolio-with-React/static/css/743.80f1edce.chunk.css",
+    "main.js": "/Portfolio-with-React/static/js/main.d38e31c1.js",
+    "static/css/743.0913fb38.chunk.css": "/Portfolio-with-React/static/css/743.0913fb38.chunk.css",
     "static/js/743.0cb97bd4.chunk.js": "/Portfolio-with-React/static/js/743.0cb97bd4.chunk.js",
     "static/css/691.187559a3.chunk.css": "/Portfolio-with-React/static/css/691.187559a3.chunk.css",
     "static/js/691.1a943617.chunk.js": "/Portfolio-with-React/static/js/691.1a943617.chunk.js",
@@ -10,22 +10,24 @@
     "static/js/9.88981e1b.chunk.js": "/Portfolio-with-React/static/js/9.88981e1b.chunk.js",
     "static/css/886.6931608d.chunk.css": "/Portfolio-with-React/static/css/886.6931608d.chunk.css",
     "static/js/886.8e8f3990.chunk.js": "/Portfolio-with-React/static/js/886.8e8f3990.chunk.js",
-    "static/css/914.77ffdf7d.chunk.css": "/Portfolio-with-React/static/css/914.77ffdf7d.chunk.css",
+    "static/css/914.15b01888.chunk.css": "/Portfolio-with-React/static/css/914.15b01888.chunk.css",
     "static/js/914.3f3c8371.chunk.js": "/Portfolio-with-React/static/js/914.3f3c8371.chunk.js",
     "static/media/Tastemaker_interact_1.png": "/Portfolio-with-React/static/media/Tastemaker_interact_1.394f33c96ccc1f0bf91f.png",
     "static/media/background.jpg": "/Portfolio-with-React/static/media/background.ce4b1a27b0221000790d.jpg",
     "static/media/BookSearchEngine-Screenshot.jpg": "/Portfolio-with-React/static/media/BookSearchEngine-Screenshot.d9ea13359d2024abc8ae.jpg",
     "static/media/Profilephoto.jpg": "/Portfolio-with-React/static/media/Profilephoto.097c980fbf9f15b46683.jpg",
     "static/media/demo.png": "/Portfolio-with-React/static/media/demo.36f01c79dd58a2553f82.png",
-    "static/media/AlexandriaGuerrero_resume.pdf": "/Portfolio-with-React/static/media/AlexandriaGuerrero_resume.e54880bfbf24ff5632d4.pdf",
+    "static/media/resumeimg1.jpg": "/Portfolio-with-React/static/media/resumeimg1.978efc4605434c9c8dbc.jpg",
+    "static/media/AlexandriaGuerrero_resume.pdf": "/Portfolio-with-React/static/media/AlexandriaGuerrero_resume.d593b1b5b60ec6f0a221.pdf",
+    "static/media/resumeimg2.jpg": "/Portfolio-with-React/static/media/resumeimg2.3f47fef2866314758243.jpg",
     "static/media/Generator-homepage.jpg": "/Portfolio-with-React/static/media/Generator-homepage.8feb705c7e5b0211bbad.jpg",
     "static/media/passwordgenerator-screenshot.jpeg": "/Portfolio-with-React/static/media/passwordgenerator-screenshot.bb0491c0de43f0409092.jpeg",
     "static/media/Screen-shot_Note-Taker_1.jpeg": "/Portfolio-with-React/static/media/Screen-shot_Note-Taker_1.99aea89fa1213baefb21.jpeg",
     "static/media/signature2.png": "/Portfolio-with-React/static/media/signature2.74e3aa67b00d1db333e8.png",
     "index.html": "/Portfolio-with-React/index.html",
     "main.6921a8f2.css.map": "/Portfolio-with-React/static/css/main.6921a8f2.css.map",
-    "main.f7366ee6.js.map": "/Portfolio-with-React/static/js/main.f7366ee6.js.map",
-    "743.80f1edce.chunk.css.map": "/Portfolio-with-React/static/css/743.80f1edce.chunk.css.map",
+    "main.d38e31c1.js.map": "/Portfolio-with-React/static/js/main.d38e31c1.js.map",
+    "743.0913fb38.chunk.css.map": "/Portfolio-with-React/static/css/743.0913fb38.chunk.css.map",
     "743.0cb97bd4.chunk.js.map": "/Portfolio-with-React/static/js/743.0cb97bd4.chunk.js.map",
     "691.187559a3.chunk.css.map": "/Portfolio-with-React/static/css/691.187559a3.chunk.css.map",
     "691.1a943617.chunk.js.map": "/Portfolio-with-React/static/js/691.1a943617.chunk.js.map",
@@ -33,11 +35,11 @@
     "9.88981e1b.chunk.js.map": "/Portfolio-with-React/static/js/9.88981e1b.chunk.js.map",
     "886.6931608d.chunk.css.map": "/Portfolio-with-React/static/css/886.6931608d.chunk.css.map",
     "886.8e8f3990.chunk.js.map": "/Portfolio-with-React/static/js/886.8e8f3990.chunk.js.map",
-    "914.77ffdf7d.chunk.css.map": "/Portfolio-with-React/static/css/914.77ffdf7d.chunk.css.map",
+    "914.15b01888.chunk.css.map": "/Portfolio-with-React/static/css/914.15b01888.chunk.css.map",
     "914.3f3c8371.chunk.js.map": "/Portfolio-with-React/static/js/914.3f3c8371.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.6921a8f2.css",
-    "static/js/main.f7366ee6.js"
+    "static/js/main.d38e31c1.js"
   ]
 }
