@@ -23,6 +23,12 @@
     width:fit-content;
 }
 
+@media only screen and (max-width: 950px) {
+   .resumeimg{
+    height:780px;
+    width: fit-content;
+   }
+  }
 
 @media only screen and (max-width: 650px) {
     /* Media query Test */
@@ -31,5 +37,16 @@
         padding: 1rem;
 
     }
+    .resumeimg{
+        height:380px;
+        width: fit-content;
+       }
   }
+
+  @media only screen and (max-width: 300px) {
+    .resumeimg{
+     height:280px;
+     width: fit-content;
+    }
+   }
  
