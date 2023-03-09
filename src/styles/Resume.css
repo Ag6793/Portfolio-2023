@@ -18,9 +18,11 @@
     background-color: #b09e99;
 }
 
-#resumebody{
-    height: 28rem;
+.resumeimg{
+    height: 875px;
+    width:fit-content;
 }
+
 
 @media only screen and (max-width: 650px) {
     /* Media query Test */
