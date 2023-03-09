@@ -7,7 +7,7 @@ This is my portfolio webpage.
 
 Deployed URL: https://ag6793.github.io/Portfolio-with-React/
 
-![Screenshot of Portfolio](./src/images/PortfolioWeb.jpg)
+![Screenshot of Portfolio](./src/images/Portfolio_Screenshot.jpg)
 
 ## Technologies
 * React
