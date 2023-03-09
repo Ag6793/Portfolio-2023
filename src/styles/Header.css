@@ -15,15 +15,33 @@ h2{
 }
 
 #signature{
-    height: 10rem;
+    height: 12rem;
     width:fit-content;
     margin: 0;
-    padding-right: 63%;
-    padding-left: 5rem;
-   padding-top: 2rem;
+    float:left;
+    /* Padding: top, right, bottom, left */
+    padding: 2rem 100% 2rem 4rem;
     background-color: #b09e99;
 
 }
+
+@media only screen and (max-width: 925px){
+    #signature{
+      width:100%;
+      height:fit-content;
+      padding: 3rem;
+    }
+  }
+
+@media only screen and (max-width: 850px){
+  #signature{
+    padding:3rem;
+    width:100%;
+    height: fit-content;
+  }
+}
+
+
 
 @media only screen and (max-width: 780px){
     h2{
@@ -32,7 +50,10 @@ h2{
     }
     #signature{
         margin:auto;
+        padding: 3rem;
         background-color: #b09e99; 
+        width: 100%;
+        height:fit-content;
     }
    }
    
@@ -43,4 +64,12 @@ h2{
     text-align: center;
     padding: 25px 5px 10px 5px;
    }
+  }
+
+  @media only screen and (max-width: 290px){
+    #signature{
+      padding:1rem;
+      width:100%;
+      height: fit-content;
+    }
   }
