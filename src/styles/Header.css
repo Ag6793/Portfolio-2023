@@ -49,16 +49,6 @@ h2{
     }
   }
 
-@media only screen and (max-width: 850px){
-  #signature{
-    padding:3rem;
-    width:100%;
-    height: fit-content;
-  }
-}
-
-
-
 @media only screen and (max-width: 780px){
     h2{
         font-size: 65px;
@@ -66,7 +56,7 @@ h2{
     }
     #signature{
         margin:auto;
-        padding: 3rem;
+        padding: 2rem;
         background-color: #b09e99; 
         width: 100%;
         height:fit-content;

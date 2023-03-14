@@ -2,7 +2,7 @@ img.projectImg {
     width: 350px;
     height: 300px;
     object-fit: cover;
-    border: 15px solid #64b6ac;
+    border: 10px solid #64b6ac;
     border-radius: 15%;
     margin: 1rem;
 }
