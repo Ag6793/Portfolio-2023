@@ -5,7 +5,7 @@ import TeamGenerator from '../../images/projectImages/Generator-homepage.jpg'
 import Gypsy from '../../images/projectImages/demo.png'
 import PasswordGenerator from '../../images/projectImages/passwordgenerator-screenshot.jpeg'
 import NoteTaker from '../../images/projectImages/Screen-shot_Note-Taker_1.jpeg'
-// import deploy from '../../images/public.png'
+// import deploy from '../../images/deployicon.png'
 import ('../../styles/Projects.css')
 
 
@@ -23,6 +23,7 @@ export default function Projects() {
       <a href="https://github.com/Ag6793/Note-Taker" target="_blank"  rel="noreferrer"><img src= {NoteTaker} alt="A screenshot of Note Taker project" class='projectImg'/></a>
       </p>
      
+     {/* globe icon */}
       {/* <img src={deploy} alt="Globe logo" id="deploy"/> */}
     </div>
   );

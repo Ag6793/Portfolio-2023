@@ -26,8 +26,8 @@ img.projectImg:active {
 }
 
 #deploy{
-    height: 75px;
-    width: 75px;
+    height: 100px;
+    width: fit-content;
 }
 
 /* .material-symbols-outlined {
