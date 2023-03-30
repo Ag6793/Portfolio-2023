@@ -13,6 +13,7 @@ Deployed URL: https://ag6793.github.io/Portfolio-with-React/
 * React
 * Css
 * Javascript
+* Bootstrap Icons
 
 ## Installation
 Clone the repository, in the command-line type npm i, and to start the react app type npm start. You may also click the deployed link to access the page.
