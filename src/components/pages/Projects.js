@@ -23,33 +23,34 @@ export default function Projects() {
 
         {/* Gypsy App */}
         <section class="projectCard">
-          <a href="https://github.com/Ag6793/Gypsy/tree/main" target="_blank" rel="noreferrer"><img src={Gypsy} alt="A screenshot of Gypsy project" class='projectImg' /></a>
-          <a href="https://pure-peak-95833.herokuapp.com/" target="_blank" rel="noreferrer"> <Github id="gitIcon" className="icon" /></a>
+          <a href="https://pure-peak-95833.herokuapp.com/" target="_blank" rel="noreferrer"><img src={Gypsy} alt="A screenshot of Gypsy project" class='projectImg' /></a>
+          <a href="https://github.com/Ag6793/Gypsy/tree/main" target="_blank" rel="noreferrer"> <Github id="gitIcon" className="icon" /></a>
         </section>
 
           {/* Book Engine Project */}
           <section class="projectCard">
-          <a href="https://github.com/Ag6793/Book-Search-Engine" target="_blank" rel="noreferrer"><img src={BookEngine} alt="A screenshot of Book Search Engine project" class='projectImg' /></a>
-          <a href="https://booksearchengine2023.herokuapp.com/" target="_blank" rel="noreferrer"> <Github id="gitIcon" className="icon" /></a>
+          <a href="https://booksearchengine2023.herokuapp.com/" target="_blank" rel="noreferrer"><img src={BookEngine} alt="A screenshot of Book Search Engine project" class='projectImg' /></a>
+          <a href="https://github.com/Ag6793/Book-Search-Engine" target="_blank" rel="noreferrer"> <Github id="gitIcon" className="icon" /></a>
         </section>
 
           {/* Team Profile Generator */}
           <section class="projectCard">
-          <a href="https://github.com/Ag6793/Team-Profile-Generator" target="_blank" rel="noreferrer"><img src={TeamGenerator} alt="A screenshot of Team Generator project" class='projectImg' /></a>
+          <img src={TeamGenerator} alt="A screenshot of Team Generator project" class='projectImg' />
           {/* Application does not have a live link */}
-          {/* <a href="https://github.com/Ag6793/Taste-Maker" target="_blank" rel="noreferrer"> <Github id="gitIcon" className="icon" /></a> */}
+          {/* <a href="https://github.com/Ag6793/Team-Profile-Generator" target="_blank" rel="noreferrer"><img src={TeamGenerator} alt="A screenshot of Team Generator project" class='projectImg' /></a> */}
+          <a href="https://github.com/Ag6793/Team-Profile-Generator" target="_blank" rel="noreferrer"> <Github id="gitIcon" className="icon" /></a>
         </section>
 
         {/* Password Generator */}
         <section class="projectCard">
-          <a href="https://github.com/Ag6793/Password-Generator" target="_blank" rel="noreferrer"><img src={PasswordGenerator} alt="A screenshot of Password Generator project" class='projectImg' /></a>
-          <a href="https://ag6793.github.io/Password-Generator/" target="_blank" rel="noreferrer"> <Github id="gitIcon" className="icon" /></a>
+          <a href="https://ag6793.github.io/Password-Generator/" target="_blank" rel="noreferrer"><img src={PasswordGenerator} alt="A screenshot of Password Generator project" class='projectImg' /></a>
+          <a href="https://github.com/Ag6793/Password-Generator" target="_blank" rel="noreferrer"> <Github id="gitIcon" className="icon" /></a>
         </section>
 
         {/* NoteTaker App */}
         <section class="projectCard">
-          <a href="https://github.com/Ag6793/Note-Taker" target="_blank" rel="noreferrer"><img src={NoteTaker} alt="A screenshot of Note Taker project" class='projectImg' /></a>
-          <a href="https://notetaker233.herokuapp.com/" target="_blank" rel="noreferrer"> <Github id="gitIcon" className="icon" /></a>
+          <a href="https://notetaker233.herokuapp.com/" target="_blank" rel="noreferrer"><img src={NoteTaker} alt="A screenshot of Note Taker project" class='projectImg' /></a>
+          <a href="https://github.com/Ag6793/Note-Taker" target="_blank" rel="noreferrer"> <Github id="gitIcon" className="icon" /></a>
         </section>
 
       </section>
